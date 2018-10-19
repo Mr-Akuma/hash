@@ -1,1 +1,1 @@
-Hash checksum coded in java
+Hash checksum in java
